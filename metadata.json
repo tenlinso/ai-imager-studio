@@ -1,0 +1,5 @@
+{
+  "name": "AI Imager",
+  "description": "A React-based AI Image Generation and Editing tool featuring responsive design, aspect ratio control, and an admin dashboard for configuration.",
+  "requestFramePermissions": []
+}
